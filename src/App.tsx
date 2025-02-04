@@ -141,7 +141,7 @@ function App() {
         <div className="flex items-center space-x-4 text-muted-foreground">
           <div className="flex items-center">
             <Calendar className="w-4 h-4 mr-2" />
-            {format(currentTime, "EEEE, MMMM d, yyyy")}
+            {format(currentTime, "EEEE, MMMM d")}
           </div>
           <Separator orientation="vertical" className="h-4" />
           <div className="flex items-center">
