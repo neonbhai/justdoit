@@ -135,7 +135,7 @@ function App() {
       {/* Header Section */}
       <header className="max-w-4xl mx-auto space-y-2">
         <div className="flex items-center justify-between">
-          <h1 className="text-4xl font-bold tracking-tight">Hey Kaustubh 👋</h1>
+          <h1 className="text-4xl font-bold tracking-tight">Hey Abhas 👋</h1>
           <ThemeToggle />
         </div>
         <div className="flex items-center space-x-4 text-muted-foreground">
